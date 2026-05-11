@@ -429,8 +429,9 @@ Este projeto demonstrou que o NotebookLM funciona melhor quando usado com **inte
 
 Desenvolvido como parte do **Desafio DIO — Caderno Temático com NotebookLM**
 
-[![LinkedIn]](www.linkedin.com/in/rafael-neves-748957175)
-[![GitHub](https://github.com/RafaNeves1)
+[LinkedIn](www.linkedin.com/in/rafael-neves-748957175)
+
+[GitHub](https://github.com/RafaNeves1)
 
 ---
 
